@@ -1,2 +1,2 @@
 # TrueLang
-Для генерации ланных используйте https://github.com/akatsnelson/TrueLangDataGenerator
+Для генерации данных используйте https://github.com/akatsnelson/TrueLangDataGenerator
